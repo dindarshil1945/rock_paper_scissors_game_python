@@ -34,7 +34,7 @@ Keeps score for both player and computer
 
 Clone the repository
 
-git clone https://github.com/your-username/rock-paper-scissors-emoji.git
+git clone https://github.com/dindarshil1945/rock_paper_scissors_game_python.git
 
 cd rock-paper-scissors-emoji
 
